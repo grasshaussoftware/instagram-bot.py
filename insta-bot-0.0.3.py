@@ -20,8 +20,8 @@ class Engine:
 
 startUp = Engine(print("Instagrapi Bot v.0.0.1 by deusopus@gmail.com"), insta_username, insta_password, input("Enter your 2FA code: "), client.media.user.pk, client.media.id, client.media.user.username, random.choice(hashtags), random.choice(captions), random.randrange(2400, 4800))
 
-startUp.welcome()
-startUp.tfa()
+startUp.welcome
+startUp.tfa
 
 client.login(startUp.insta_username, startUp.insta_password, verification_code=startUp.tfa)
 
