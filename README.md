@@ -10,3 +10,6 @@ bc1qg88f97xn7flu7qau6hhpqa33xa63ceq8zlspdk
 
 doge
 DPaAF3ZVFNtpDoSf4Jov2A8xqZtTMgpf6V
+
+thanks to NeuralNine (https://github.com/NeuralNine) for his inspiration in this video<br/>
+https://youtu.be/cW7kMeOUr20
