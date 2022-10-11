@@ -13,6 +13,7 @@ pillow
 proglog
 pycryptodomex
 pydantic
+pygames
 pysocks
 pytest
 python-dotenv
@@ -24,4 +25,3 @@ tqdm
 typing-extensions
 urllib3
 wheel
-
