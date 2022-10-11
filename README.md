@@ -1,6 +1,6 @@
 # instagram-bot.py
 pip3 install instagrapi<br/>
-pip3 -r install requirements.txt
+pip3 install -r requirements.txt
 
 doc
 https://github.com/adw0rd/instagrapi/tree/master/docs/usage-guide
